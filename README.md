@@ -1,7 +1,7 @@
-# Sistema de recomendação de filmes 
+<h1 align="center"> Seu título aqui </h1>
 
 <div style = "display: inline_block"><br>
-  <img align = "center" alt = "Paulo-Py" height = "30" width = "40" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Musicfilm2.png" />
+  <img align = "left" alt = "Paulo-Py" height = "30" width = "40" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Musicfilm2.png" />
   
    </div>  
 <p align="justify"> Este sistema é uma página criada no streamlit onde a partir de uma lista de filmes (coletados no TMDB - https://www.themoviedb.org) se escolhe 1 (um) e mostra 5 (cinco) recomendações de filmes similares, com nomes e imagens destes.</p>   
