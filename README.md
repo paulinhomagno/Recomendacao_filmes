@@ -1,4 +1,4 @@
-<h1 align="center"> Seu título aqui </h1>
+<h1 align="center"> Sistema de recomendação de filmes </h1>
 
 <div style = "display: inline_block"><br>
   <img align = "left" alt = "Paulo-Py" height = "30" width = "40" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Musicfilm2.png" />
