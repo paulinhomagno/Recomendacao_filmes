@@ -5,6 +5,6 @@
   
    </div>
 
-Arquivos ipynb: 
+Arquivos ipynb:   
 Coleta de dados - códigos em python onde foi coletado dados por webscraping, API e documentos csv do Kaggle.
 
